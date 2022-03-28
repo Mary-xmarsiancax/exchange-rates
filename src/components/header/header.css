@@ -1,0 +1,14 @@
+.header-wr {
+    display: inline-flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.header-wr img {
+    max-width: 6%;
+}
+
+.header-wr h3 {
+    text-decoration: underline;
+}

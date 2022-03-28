@@ -1,0 +1,11 @@
+.content-wr {
+    background-color: rgb(245, 245, 245);
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+}
+
+.content-wr img {
+    max-width: 35%;
+}
