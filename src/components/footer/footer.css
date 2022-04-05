@@ -1,14 +1,17 @@
 .footer-wr {
-    background-color: rgb(245, 245, 245);
+    background-color: rgb(240, 230, 140);
+    height: 50px;
     display: flex;
-    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
 .footer-wr .footer-text {
-    display: flex;
+    flex-direction: column;
     flex-wrap: wrap;
-    justify-content: space-around;
 }
-.footer-wr h4{
-    text-decoration: underline;
+
+.footer-wr .footer-text span {
+    font-weight: bold;
+    margin-left: 3px;
 }
