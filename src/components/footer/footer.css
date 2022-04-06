@@ -1,4 +1,5 @@
 .footer-wr {
+    width: 100%;
     background-color: rgb(240, 230, 140);
     height: 50px;
     display: flex;
