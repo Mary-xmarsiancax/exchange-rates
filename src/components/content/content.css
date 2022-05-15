@@ -56,8 +56,8 @@ tbody tr:hover td {
 .mainImgWrTop {
     width: 100%;
     height: 30%;
-    margin: 50px 0 0 1215px;
-    padding-left: 85px;
+    margin: 50px 0 0 1145px;
+    padding-left: 75px;
 }
 
 .mainImgWrMiddle{
@@ -69,8 +69,8 @@ tbody tr:hover td {
 .mainImgWrBottom{
     width: 100%;
     height: 30%;
-    margin: 50px 0 0 1215px;
-    padding-left: 85px
+    margin: 50px 0 0 1145px;
+    padding-left: 75px
 }
 
 .usdStyle{
