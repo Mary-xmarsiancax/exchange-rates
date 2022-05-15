@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/exchange-rates/static/css/main.e8c351fd.css",
+    "main.css": "/exchange-rates/static/css/main.8bd4ab93.css",
     "main.js": "/exchange-rates/static/js/main.cea53277.js",
     "static/js/787.e7470584.chunk.js": "/exchange-rates/static/js/787.e7470584.chunk.js",
     "static/media/Gold_Currency_Symbols.svg.png": "/exchange-rates/static/media/Gold_Currency_Symbols.svg.eff7f67441ddc9cf6ad3.png",
     "static/media/1.png": "/exchange-rates/static/media/1.5af2eb0010fa809ad706.png",
     "index.html": "/exchange-rates/index.html",
-    "main.e8c351fd.css.map": "/exchange-rates/static/css/main.e8c351fd.css.map",
+    "main.8bd4ab93.css.map": "/exchange-rates/static/css/main.8bd4ab93.css.map",
     "main.cea53277.js.map": "/exchange-rates/static/js/main.cea53277.js.map",
     "787.e7470584.chunk.js.map": "/exchange-rates/static/js/787.e7470584.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e8c351fd.css",
+    "static/css/main.8bd4ab93.css",
     "static/js/main.cea53277.js"
   ]
 }
