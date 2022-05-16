@@ -1,7 +1,6 @@
 {
   "name": "exchange-rates",
   "version": "0.1.0",
-  "homepage": "https://mary-xmarsiancax.github.io/exchange-rates/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.3",
